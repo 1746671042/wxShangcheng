@@ -1,0 +1,24 @@
+记录错误日志
+999未知错误或者是不让客户端知道的错误
+1  通用
+10000 参数错误
+
+3 主题
+30000 主题不存在
+
+
+wx30f1d0fb10d7792c  
+974cc54ef7fbc2e5784fb5702adda263
+
+http://www.wxshop.com/api/v1/banner/1?XDEBUG_SESSION_START=netbeans-xdebug   轮播
+http://www.wxshop.com/api/v1/Theme?ids=1,2,3&XDEBUG_SESSION_START=netbeans-xdebug   专题
+http://www.wxshop.com/api/v1/Theme/1?XDEBUG_SESSION_START=netbeans-xdebug   专题详情
+http://www.wxshop.com/api/v1/product/recent?count=3&XDEBUG_SESSION_START=netbeans-xdebug   最新商品
+http://www.wxshop.com/api/v1/category/all?XDEBUG_SESSION_START=netbeans-xdebug  分类
+http://www.wxshop.com/api/v1/product/by_category?id=3&XDEBUG_SESSION_START=netbeans-xdebug 各个分类中商品
+http://www.wxshop.com/api/v1/token/user?XDEBUG_SESSION_START=netbeans-xdebug    用户信息
+http://www.wxshop.com/api/v1/product/2?XDEBUG_SESSION_START=netbeans-xdebug     首页商品详细信息
+http://www.wxshop.com/api/v1/address?XDEBUG_SESSION_START=netbeans-xdebug       地址参数 {"name":"huxiaole","mobile":"15614480650","province":"上位法沙发","city":"保定","country":"中国","detail":"张三值店"}
+http://www.wxshop.com/api/v1/order?XDEBUG_SESSION_START=netbeans-xdebug         订单查询  
+http://www.wxshop.com/api/v1/order/by_user?page=1&size=4&XDEBUG_SESSION_START=netbeans-xdebug    用户下的订单
+  
